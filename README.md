@@ -329,14 +329,5 @@ relancer le backend (les données de démo seront régénérées).
 
 ---
 
-### En résumé pour démarrer vite
-```text
-1. Installer : Java 17, Node.js, PostgreSQL, IntelliJ, VS Code
-2. Créer la base "pharmastock" dans pgAdmin
-3. Mettre son mot de passe dans application.properties (vérifier le port)
-4. Backend : ouvrir pharmastock-backend dans IntelliJ → Run
-5. Frontend : cd pharmastock-frontend → npm install → npm start
-6. Se connecter sur http://localhost:3000 avec admin@pharma.ma / Admin123!
-```
 
-Bon développement ! 🚀
+
