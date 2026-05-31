@@ -1,0 +1,23 @@
+# Backend – dossiers compilés / données
+pharmastock-backend/target/
+pharmastock-backend/data/
+pharmastock-backend/*.log
+pharmastock-backend/*.db
+pharmastock-backend/*.mv.db
+
+# Frontend
+pharmastock-frontend/node_modules/
+pharmastock-frontend/build/
+pharmastock-frontend/.env.local
+
+# IDE (IntelliJ, VS Code)
+.idea/
+*.iml
+.vscode/
+
+# Fichiers sensibles (mot de passe PostgreSQL)
+**/application.properties
+
+# OS
+.DS_Store
+Thumbs.db
