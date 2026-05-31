@@ -3,7 +3,6 @@
 Application web complète de gestion de stock destinée aux pharmacies : suivi par lot et par date
 de péremption, ventes au comptoir, alertes automatiques, traçabilité réglementaire et rapports PDF.
 
-> Projet de Fin d'Année (PFA) — Stack : **React.js** + **Spring Boot 3** + **PostgreSQL** + **JWT**
 
 ---
 
